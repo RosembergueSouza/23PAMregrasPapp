@@ -1,4 +1,4 @@
-# 23PAMregrasPapp
+# Inadimplência de cartão de crédito - Aprendizado de Máquina (Machine Learning) 
 
 Este projeto apresenta o caso ilustrativo abordado no livro "23 Perguntas sobre Aprendizado de Máquina: Regras Práticas para o Desenvolvimento de Aplicações".
 
