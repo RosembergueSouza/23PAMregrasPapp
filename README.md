@@ -6,3 +6,6 @@ Conjunto de dados "Inadimplência de cartão de crédito". Objetivo: estimar a p
 
 Confira na Amazon:
 https://www.amazon.com.br/Perguntas-sobre-Aprendizado-Máquina-Desenvolvimento-ebook/dp/B08PT9TN93/ref=pd_rhf_gw_p_img_1?_encoding=UTF8&psc=1&refRID=YQXS5VBMB09E1EYH4BXE
+
+Blog "D de dados":
+https://ddedados.blogspot.com/
